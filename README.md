@@ -9,4 +9,8 @@ http://mdecourse.github.io/2018fall/
 
 cpgx 網站: https://cpgx.kmol.info
 
-網誌: https://mdecadp2018.github.io/site-40623247/content/index.html
+個人網誌: https://mdecadp2018.github.io/site-40623247/content/index.html
+
+Blog: https://mdecadp2018.github.io/site-40623247/blog/index.html
+
+投影片: https://mdecadp2018.github.io/site-40623247/reveal/index.html#/
