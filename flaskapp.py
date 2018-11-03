@@ -2003,7 +2003,6 @@ def syntaxhighlight():
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
 '''
 
-
 def syntaxhighlight2():
     return '''
 <script type="text/javascript" src="./../static/syntaxhighlighter/shCore.js"></script>
