@@ -26,7 +26,9 @@
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>W1-W2</vh></v>
-<v t="leo.20181104200750.1"><vh>W4-W8</vh></v>
+</v>
+<v t="leo.20181104201911.1" a="E"><vh>W4-W8s</vh>
+<v t="leo.20181104201911.3"><vh>W4-W8</vh></v>
 </v>
 </v>
 </v>
@@ -137,9 +139,9 @@ Created by [40623247](http://mdecadp2018.github.io/site-40623247/blog)
 </t>
 <t tx="leo.20180827201621.12">#W1-W2
 
-1.準備上課用品:隨身碟,筆記本,耳機,文具
-2.領取期中作業倉儲
-3.開始管理網站、網誌
+*準備上課用品:隨身碟,筆記本,耳機,文具
+*領取期中作業倉儲
+*開始管理網站、網誌
 
 </t>
 <t tx="leo.20180827201621.2"></t>
@@ -236,13 +238,22 @@ Created by [40623247](http://mdecadp2018.github.io/site-40623247/blog)
 
 						
 </t>
-<t tx="leo.20181104200750.1">#W4-W8
+<t tx="leo.20181104201911.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-1.利用學校email申請Onshape帳號
-2.自行掌握進度閱讀Onshape操作手冊，了解Onshape的環境
-3.當在更新CMSimfly時出現亂碼時該如何應對。
-4.當github無法使用時，我們可以自己再開一個FossilSCM。
-5.當在Onshape零組件設計繪製與組立完成後，如何將
+
+						
+</t>
+<t tx="leo.20181104201911.3">##W4-W8
+
+*利用學校email申請Onshape帳號
+*自行掌握進度閱讀Onshape操作手冊，了解Onshape的環境
+*當在更新CMSimfly時出現亂碼時該如何應對。
+*當github無法使用時，我們可以自己再開一個FossilSCM。
+*當在Onshape零組件設計繪製與組立完成後，如何將
 零組件轉至V-rep進行模擬時?以及我要使用哪一種
 語言進行?
 </t>
