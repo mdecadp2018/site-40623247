@@ -1,26 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623247 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-10-15T11:11:00+08:00</updated><entry><title>WEEK6</title><link href="./2018-Fall-week6.html" rel="alternate"></link><published>2018-10-15T11:11:00+08:00</published><updated>2018-10-15T11:11:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-15:./2018-Fall-week6.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623247 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623247/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623247/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623247/blog/</id><updated>2018-10-29T11:15:00+08:00</updated><entry><title>Week8</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-Fall-week8.html" rel="alternate"></link><published>2018-10-29T11:15:00+08:00</published><updated>2018-10-29T11:15:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623247/blog/2018-Fall-week8.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
-&lt;p&gt;閱讀Onshape操作時習手冊
-自行練習Onshape&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>WEEK5</title><link href="./2018-Fall-week5.html" rel="alternate"></link><published>2018-10-08T10:53:00+08:00</published><updated>2018-10-08T10:53:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-08:./2018-Fall-week5.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;這一周在講解當我Onshape零組件設計繪製與組立完成後，&lt;/p&gt;
+&lt;p&gt;如何將零組件轉至V-rep進行模擬時?以及我要使用哪一種&lt;/p&gt;
+&lt;p&gt;語言進行?&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week7</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-Fall-week7.html" rel="alternate"></link><published>2018-10-22T11:20:00+08:00</published><updated>2018-10-22T11:20:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623247/blog/2018-Fall-week7.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
-&lt;p&gt;自行練習Onshape&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>WEEK4</title><link href="./2018-Fall-week4.html" rel="alternate"></link><published>2018-10-01T10:53:00+08:00</published><updated>2018-10-01T10:53:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-01:./2018-Fall-week4.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;這一周裡發現github無法正常登陸的情形，&lt;/p&gt;
+&lt;p&gt;為了預防當github無法使用時，我們可以&lt;/p&gt;
+&lt;p&gt;自己再開一個FossilSCM。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-Fall-week6.html" rel="alternate"></link><published>2018-10-15T11:11:00+08:00</published><updated>2018-10-15T11:11:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623247/blog/2018-Fall-week6.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
-&lt;p&gt;講解Onshape基本操作&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>WEEK3</title><link href="./2018-week3.html" rel="alternate"></link><published>2018-09-24T10:53:00+08:00</published><updated>2018-09-24T10:53:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-24:./2018-week3.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;這一周老師講到當在更新CMSimfly時，如果發現為何在作完東西後&lt;/p&gt;
+&lt;p&gt;上傳完發現跑出來的是亂碼時該如何應對。&lt;/p&gt;
+&lt;p&gt;1.到google搜尋cmsimfiy，點開第一個網址&lt;/p&gt;
+&lt;p&gt;2.將它的內容clone下來&lt;/p&gt;
+&lt;p&gt;3.clone完之後打開資料夾，將裡面的flaskapp.py複製到自己的資料夾(直接覆蓋皆可)&lt;/p&gt;
+&lt;p&gt;4.將flaskapp.py更新到最新版之後檢查是否行得通&lt;/p&gt;
+&lt;p&gt;5-1.可以，問題解決&lt;/p&gt;
+&lt;p&gt;5-2.不行，到cadp2018的issues裡發問&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-Fall-week5.html" rel="alternate"></link><published>2018-10-08T10:53:00+08:00</published><updated>2018-10-08T10:53:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623247/blog/2018-Fall-week5.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
-&lt;p&gt;中秋節放假&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>WEEK2</title><link href="./2018-Fall-week2.html" rel="alternate"></link><published>2018-09-17T10:53:00+08:00</published><updated>2018-09-17T10:53:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-17:./2018-Fall-week2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;這禮拜對Onshape有更進一步的了解，也認識到設計者不是一拿到圖就開始抄圖，&lt;/p&gt;
+&lt;p&gt;而是要先理解它要表達的是甚麼，為甚麼要這樣設計，一拿到圖就開始畫的話，&lt;/p&gt;
+&lt;p&gt;不是一位設計者而是抄圖員。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-Fall-week4.html" rel="alternate"></link><published>2018-10-01T10:53:00+08:00</published><updated>2018-10-01T10:53:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623247/blog/2018-Fall-week4.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
-&lt;p&gt;領取期中作業倉儲&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;利用學校email申請Onshape帳號&lt;/p&gt;
+&lt;p&gt;開始學習Onhape，自行閱讀操作手冊學習&lt;/p&gt;
+&lt;p&gt;了解Onshape的使用環境，並學習操作手冊&lt;/p&gt;
+&lt;p&gt;中的陌生單字。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-week3.html" rel="alternate"></link><published>2018-09-24T10:53:00+08:00</published><updated>2018-09-24T10:53:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623247/blog/2018-week3.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;p&gt;中秋節放假&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-Fall-week2.html" rel="alternate"></link><published>2018-09-17T10:53:00+08:00</published><updated>2018-09-17T10:53:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623247/blog/2018-Fall-week2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;p&gt;講解如何使用ShareX拍攝影片，以及Zoombit放大功能&lt;/p&gt;
+&lt;p&gt;領取期中作業倉儲，開始管理網誌&amp;amp;Blog以及製作投影片，&lt;/p&gt;
+&lt;p&gt;將每個禮拜學習到的內容或在管理網誌&amp;amp;Blog時所遇到&lt;/p&gt;
+&lt;p&gt;的問題放上網誌&amp;amp;Blog，讓其他人遇到同樣問題時也可以&lt;/p&gt;
+&lt;p&gt;了解到該如呵解決。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623247/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -32,4 +59,10 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623247/blog/2018-Fall-week1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623247/blog/2018-Fall-week1.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;p&gt;準備上課用品:隨身碟,筆記本,耳機,文具&lt;/p&gt;
+&lt;p&gt;在隨身碟中裡安裝P37&lt;/p&gt;
+&lt;p&gt;利用P37建立個人的Github Pages網站&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
